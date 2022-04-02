@@ -11,6 +11,6 @@ function setGradient() {
 }
 debugger
 // Adding Event Listeners
-window.addEventListener("",setGradient);
+window.addEventListener("load",setGradient);
 color1.addEventListener("input",setGradient);
 color2.addEventListener("input",setGradient);
